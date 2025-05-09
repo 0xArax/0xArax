@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm 0xArax 👾</h1>
+<p align="center">Cyber Security ⚔️ | Network Automation 🌐 | Python 🐍 | Red Team 🧨</p>
 
-<!--
-**0xArax/0xArax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me:
+- 🎯 Passionate about ethical hacking and infrastructure security
+- 🔧 Building tools with Python and Bash
+- 💻 Experienced in Cisco, Mikrotik, Wireshark, and Linux servers
+- 🚀 Learning offensive security and red teaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tools & Technologies:
+<p>
+  <img src="https://img.shields.io/badge/-Wireshark-1e1e2e?style=flat&logo=wireshark" />
+  <img src="https://img.shields.io/badge/-Nmap-1e1e2e?style=flat" />
+  <img src="https://img.shields.io/badge/-Python-1e1e2e?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Ubuntu-1e1e2e?style=flat&logo=ubuntu" />
+  <img src="https://img.shields.io/badge/-Cisco-1e1e2e?style=flat&logo=cisco" />
+</p>
+
+---
+
+### 📂 My Repositories:
+- 🔐 `PortScanner-Python` → Fast multithreaded port scanner
+- 🛰️ `NetworkLab-GNS3` → Cisco & Mikrotik labs with configs
+- 🐍 `SniffPack` → Python packet sniffer with logging
+- 🧠 `Notes` → My learning logs, cheatsheets & walkthroughs
+
+---
+
+### 📬 Contact:
+📧 arashasr81@gmail.com
+🌐 [GitHub.io page coming soon...](#)

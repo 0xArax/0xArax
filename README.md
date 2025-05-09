@@ -33,3 +33,25 @@
 ### 📬 Contact:
 📧 arashasr81@gmail.com
 🌐 [GitHub.io page coming soon...](#)
+
+### 📂 My Projects by Category:
+
+#### 🔍 Network Tools:
+- [PortScanner-Python](https://github.com/0xArax/PortScanner-Python)
+- [LiveHostsScanner](https://github.com/0xArax/LiveHostsScanner)
+
+#### 📡 Labs & Simulations:
+- [Cisco-Labs](https://github.com/0xArax/Cisco-Labs)
+- [Mikrotik-Configs](https://github.com/0xArax/Mikrotik-Configs)
+
+#### 🧨 Red Team / Hacking Tools:
+- [BruteForcer-SSH](https://github.com/0xArax/BruteForcer-SSH)
+- [LogCleaner](https://github.com/0xArax/LogCleaner)
+
+#### 🧾 Learning & Notes:
+- [Notes-Network+](https://github.com/0xArax/Notes-Network+)
+- [Daily-Learning](https://github.com/0xArax/Daily-Learning)
+
+
+
+

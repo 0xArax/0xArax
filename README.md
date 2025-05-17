@@ -37,7 +37,7 @@
 ### 📂 My Projects by Category:
 
 #### 🔍 Network Tools:
-- [PortScanner-Python](https://github.com/0xArax/PortScanner-Python)
+- [PortScanner-Python](https://github.com/0xArax/network-scanner)
 - [LiveHostsScanner](https://github.com/0xArax/LiveHostsScanner)
 
 #### 📡 Labs & Simulations:
